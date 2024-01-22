@@ -5,7 +5,7 @@ import ExerciseDetail from "./pages/ExerciseDetail";
 import Home from "./pages/Home";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-
+//test
 const App = () => {
   return (
     <Box width="400px" sx={{ width: {xl:'1488px'}}} x="auto">
