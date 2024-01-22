@@ -5,7 +5,7 @@ import ExerciseDetail from "./pages/ExerciseDetail";
 import Home from "./pages/Home";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-//test
+//test test
 /**
 * @description This function returns a JSX component that renders a Box component
 * with a Navbar and Routes components inside it. The Box component has a width of
